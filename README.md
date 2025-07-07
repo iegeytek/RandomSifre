@@ -6,7 +6,15 @@ Bu proje, C# diliyle geliştirilmiş basit bir rastgele şifre üreteci uygulama
 
 - Belirtilen uzunlukta rastgele şifre üretme
 - Büyük harf, küçük harf, rakam ve özel karakter desteği
-- Kolayca özelleştirilebilir yapı
+- Kolayca özelleştirilebilir yapı (Tasarımını Visual Studio 2015+ Kolaylıkla yapabilirsin.)
+
+## 🛠️ Kullanılan Yazılımlar
+
+- C# (.NET)
+- Windows Forms (WinForms)
+- Visual Studio 2015+
+- Acces 2013+ (Database)
+
 
 ## 🧪 Kullanım
 
