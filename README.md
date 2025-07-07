@@ -13,7 +13,6 @@ Bu proje, C# diliyle geliştirilmiş basit bir rastgele şifre üreteci uygulama
 - C# (.NET)
 - Windows Forms (WinForms)
 - Visual Studio 2015+
-- Acces 2013+ (Database)
 
 
 ## 🧪 Kullanım
